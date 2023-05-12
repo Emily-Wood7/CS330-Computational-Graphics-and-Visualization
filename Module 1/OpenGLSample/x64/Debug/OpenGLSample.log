@@ -1,0 +1,31 @@
+﻿shader.obj : error LNK2019: unresolved external symbol __imp___glewAttachShader referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewCompileShader referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewCreateProgram referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewCreateShader referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewDeleteShader referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewDetachShader referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramInfoLog referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramiv referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderInfoLog referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderiv referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewLinkProgram referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+shader.obj : error LNK2019: unresolved external symbol __imp___glewShaderSource referenced in function "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPEBD0@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetScrollCallback referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwGetProcAddress referenced in function main
+C:\CS330 Computational Graphics and Visualization\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\CS330 Computational Graphics and Visualization\OpenGL\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\CS330 Computational Graphics and Visualization\OpenGLSample\x64\Debug\OpenGLSample.exe : fatal error LNK1120: 28 unresolved externals
