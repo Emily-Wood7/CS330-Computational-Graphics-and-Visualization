@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(181,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(301,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(302,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(306,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(307,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(309,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(310,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(319,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(385,12): warning C4101: 'projection': unreferenced local variable
+C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\5-3 Texturing a Pyramid\Source.cpp(389,8): warning C4101: 'objectColorLoc': unreferenced local variable
+  5-3 Texturing a Pyramid.vcxproj -> C:\CS330 Computational Graphics and Visualization\5-3 Texturing a Pyramid\Debug\5-3 Texturing a Pyramid.exe
