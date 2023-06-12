@@ -1,0 +1,10 @@
+﻿  source.cpp
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(389,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(506,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(507,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(511,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(512,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(514,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(515,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\6-5 Milestone Lighting Complex Objects\source.cpp(524,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  6-5 Milestone Lighting Complex Objects.vcxproj -> C:\CS330 Computational Graphics and Visualization\6-5 Milestone Lighting Complex Objects\Debug\6-5 Milestone Lighting Complex Objects.exe
