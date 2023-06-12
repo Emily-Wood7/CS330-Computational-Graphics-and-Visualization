@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(292,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(413,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(414,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(418,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(419,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(421,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(422,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\6-3 Lighting a Pyramid\Source.cpp(431,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  6-3 Lighting a Pyramid.vcxproj -> C:\CS330 Computational Graphics and Visualization\6-3 Lighting a Pyramid\Debug\6-3 Lighting a Pyramid.exe
