@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(153,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(270,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(271,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(275,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(276,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(278,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(279,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(288,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\4-3 Basic Camera Movement\Source.cpp(350,12): warning C4101: 'projection': unreferenced local variable
+  4-3 Basic Camera Movement.vcxproj -> C:\CS330 Computational Graphics and Visualization\4-3 Basic Camera Movement\Debug\4-3 Basic Camera Movement.exe
