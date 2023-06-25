@@ -20,5 +20,5 @@
       <br>I learned to make smaller changes, build, and continue as opposed to trying to do everything at once.  It was easier to debug and I was able to focus better.
 
 **3. How can computer science help me in reaching my goals?**
-   - **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?**
+   - **How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational and professional pathway?**
       <br>My Computer Science concentration is Data Analysis.  There are a lot of visualizations within data, so OpenGL may be useful.
