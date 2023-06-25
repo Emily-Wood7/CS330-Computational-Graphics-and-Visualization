@@ -1,2 +1,3 @@
 # CS330-Computational-Graphics-and-Visualization
-SNHU
+
+![Proposed Scene](Module 7 - Project/Final Scene.jpg)
