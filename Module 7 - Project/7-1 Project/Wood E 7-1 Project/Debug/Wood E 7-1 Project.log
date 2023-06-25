@@ -1,0 +1,10 @@
+﻿  source.cpp
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(406,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(523,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(524,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(528,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(529,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(531,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(532,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Wood E 7-1 Project\source.cpp(541,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Wood E 7-1 Project.vcxproj -> C:\CS330 Computational Graphics and Visualization\Wood E 7-1 Project\Debug\Wood E 7-1 Project.exe
